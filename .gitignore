@@ -1,0 +1,12 @@
+# for IntelliJ IDEA
+.idea/
+target/
+*.iml
+
+# for Eclipse
+.settings/
+.classpath
+.project
+
+logs/
+/bin/
